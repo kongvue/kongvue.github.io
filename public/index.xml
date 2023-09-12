@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongs New Hugo Site</title>
+    <link>https://kongvue.com/</link>
+    <description>Recent content on Kongs New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2023 11:40:24 -0500</lastBuildDate><atom:link href="https://kongvue.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://kongvue.com/posts/my-first-post/</link>
+      <pubDate>Tue, 12 Sep 2023 11:40:24 -0500</pubDate>
+      
+      <guid>https://kongvue.com/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>

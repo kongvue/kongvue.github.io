@@ -1,0 +1,4 @@
+baseURL = 'https://kongvue.com/'
+languageCode = 'en-us'
+title = 'Kongs New Hugo Site'
+theme = 'ananke'
